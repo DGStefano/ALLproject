@@ -1,7 +1,7 @@
 # Enhancer plasticity sustains oncogenic transformation and progression of B-Cell Acute Lymphoblastic leukemia
 
 1. sirianalysis : Series of scripts employed in the definition of Sharing Index and Ranking Index (more detail in the Methods Section in the paper below)
-2. Heatmap_clusters : Code that allows the definition of four clusters with different behavior during the cancer progression.
+2. Heatmap_clusters.R : Code that allows the definition of four clusters with different behavior during the cancer progression.
 
 All the scripts provided refer to the publication : 
 Enhancer plasticity sustains oncogenic transformation and progression of B-Cell Acute Lymphoblastic leukemia
